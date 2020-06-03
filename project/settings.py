@@ -40,11 +40,9 @@ INSTALLED_APPS = [
 
     # my apps
 
-    'blog',
-    'contact',
-    'home',
+    
     'job',
-    'accounts',
+    
     
 ]
 
